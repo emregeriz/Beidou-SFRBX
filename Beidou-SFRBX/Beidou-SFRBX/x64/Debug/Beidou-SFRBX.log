@@ -1,0 +1,79 @@
+﻿  Beidou-SFRBX.c
+C:\Users\PC_6373\source\repos\Beidou-SFRBX\Beidou-SFRBX\Beidou-SFRBX.c(666,26): warning C4244: '=': 'const double' - 'uint32_t' dönüşümü; veri kaybı olabilir
+C:\Users\PC_6373\source\repos\Beidou-SFRBX\Beidou-SFRBX\Beidou-SFRBX.c(689,26): warning C4244: '=': 'const double' - 'uint32_t' dönüşümü; veri kaybı olabilir
+C:\Users\PC_6373\source\repos\Beidou-SFRBX\Beidou-SFRBX\Beidou-SFRBX.c(706,5): warning C4098: 'subframe_1_word_2_doldur': 'void' işlev değer döndürüyor
+C:\Users\PC_6373\source\repos\Beidou-SFRBX\Beidou-SFRBX\Beidou-SFRBX.c(723,5): warning C4098: 'subframe_1_word_3_doldur': 'void' işlev değer döndürüyor
+C:\Users\PC_6373\source\repos\Beidou-SFRBX\Beidou-SFRBX\Beidou-SFRBX.c(729,33): warning C4244: '=': 'const double' - 'int32_t' dönüşümü; veri kaybı olabilir
+C:\Users\PC_6373\source\repos\Beidou-SFRBX\Beidou-SFRBX\Beidou-SFRBX.c(730,37): warning C4244: '=': 'const double' - 'int32_t' dönüşümü; veri kaybı olabilir
+C:\Users\PC_6373\source\repos\Beidou-SFRBX\Beidou-SFRBX\Beidou-SFRBX.c(740,5): warning C4098: 'subframe_1_word_4_doldur': 'void' işlev değer döndürüyor
+C:\Users\PC_6373\source\repos\Beidou-SFRBX\Beidou-SFRBX\Beidou-SFRBX.c(745,37): warning C4244: '=': 'const double' - 'uint32_t' dönüşümü; veri kaybı olabilir
+C:\Users\PC_6373\source\repos\Beidou-SFRBX\Beidou-SFRBX\Beidou-SFRBX.c(746,35): warning C4244: '=': 'const double' - 'int32_t' dönüşümü; veri kaybı olabilir
+C:\Users\PC_6373\source\repos\Beidou-SFRBX\Beidou-SFRBX\Beidou-SFRBX.c(747,35): warning C4244: '=': 'const double' - 'int32_t' dönüşümü; veri kaybı olabilir
+C:\Users\PC_6373\source\repos\Beidou-SFRBX\Beidou-SFRBX\Beidou-SFRBX.c(757,5): warning C4098: 'subframe_1_word_5_doldur': 'void' işlev değer döndürüyor
+C:\Users\PC_6373\source\repos\Beidou-SFRBX\Beidou-SFRBX\Beidou-SFRBX.c(762,35): warning C4244: '=': 'const double' - 'int32_t' dönüşümü; veri kaybı olabilir
+C:\Users\PC_6373\source\repos\Beidou-SFRBX\Beidou-SFRBX\Beidou-SFRBX.c(763,35): warning C4244: '=': 'const double' - 'int32_t' dönüşümü; veri kaybı olabilir
+C:\Users\PC_6373\source\repos\Beidou-SFRBX\Beidou-SFRBX\Beidou-SFRBX.c(764,38): warning C4244: '=': 'const double' - 'int32_t' dönüşümü; veri kaybı olabilir
+C:\Users\PC_6373\source\repos\Beidou-SFRBX\Beidou-SFRBX\Beidou-SFRBX.c(779,38): warning C4244: '=': 'const double' - 'uint32_t' dönüşümü; veri kaybı olabilir
+C:\Users\PC_6373\source\repos\Beidou-SFRBX\Beidou-SFRBX\Beidou-SFRBX.c(780,34): warning C4244: '=': 'const double' - 'int32_t' dönüşümü; veri kaybı olabilir
+C:\Users\PC_6373\source\repos\Beidou-SFRBX\Beidou-SFRBX\Beidou-SFRBX.c(781,34): warning C4244: '=': 'const double' - 'int32_t' dönüşümü; veri kaybı olabilir
+C:\Users\PC_6373\source\repos\Beidou-SFRBX\Beidou-SFRBX\Beidou-SFRBX.c(782,38): warning C4244: '=': 'const double' - 'int32_t' dönüşümü; veri kaybı olabilir
+C:\Users\PC_6373\source\repos\Beidou-SFRBX\Beidou-SFRBX\Beidou-SFRBX.c(792,5): warning C4098: 'subframe_1_word_7_doldur': 'void' işlev değer döndürüyor
+C:\Users\PC_6373\source\repos\Beidou-SFRBX\Beidou-SFRBX\Beidou-SFRBX.c(797,38): warning C4244: '=': 'const double' - 'uint32_t' dönüşümü; veri kaybı olabilir
+C:\Users\PC_6373\source\repos\Beidou-SFRBX\Beidou-SFRBX\Beidou-SFRBX.c(798,31): warning C4244: '=': 'const double' - 'int32_t' dönüşümü; veri kaybı olabilir
+C:\Users\PC_6373\source\repos\Beidou-SFRBX\Beidou-SFRBX\Beidou-SFRBX.c(799,35): warning C4244: '=': 'const double' - 'int32_t' dönüşümü; veri kaybı olabilir
+C:\Users\PC_6373\source\repos\Beidou-SFRBX\Beidou-SFRBX\Beidou-SFRBX.c(809,5): warning C4098: 'subframe_1_word_8_doldur': 'void' işlev değer döndürüyor
+C:\Users\PC_6373\source\repos\Beidou-SFRBX\Beidou-SFRBX\Beidou-SFRBX.c(814,35): warning C4244: '=': 'const double' - 'uint32_t' dönüşümü; veri kaybı olabilir
+C:\Users\PC_6373\source\repos\Beidou-SFRBX\Beidou-SFRBX\Beidou-SFRBX.c(815,35): warning C4244: '=': 'const double' - 'int32_t' dönüşümü; veri kaybı olabilir
+C:\Users\PC_6373\source\repos\Beidou-SFRBX\Beidou-SFRBX\Beidou-SFRBX.c(825,5): warning C4098: 'subframe_1_word_9_doldur': 'void' işlev değer döndürüyor
+C:\Users\PC_6373\source\repos\Beidou-SFRBX\Beidou-SFRBX\Beidou-SFRBX.c(830,36): warning C4244: '=': 'const double' - 'uint32_t' dönüşümü; veri kaybı olabilir
+C:\Users\PC_6373\source\repos\Beidou-SFRBX\Beidou-SFRBX\Beidou-SFRBX.c(841,5): warning C4098: 'subframe_1_word_10_doldur': 'void' işlev değer döndürüyor
+C:\Users\PC_6373\source\repos\Beidou-SFRBX\Beidou-SFRBX\Beidou-SFRBX.c(859,5): warning C4098: 'subframe_2_word_1_doldur': 'void' işlev değer döndürüyor
+C:\Users\PC_6373\source\repos\Beidou-SFRBX\Beidou-SFRBX\Beidou-SFRBX.c(865,40): warning C4244: '=': 'const double' - 'int32_t' dönüşümü; veri kaybı olabilir
+C:\Users\PC_6373\source\repos\Beidou-SFRBX\Beidou-SFRBX\Beidou-SFRBX.c(875,5): warning C4098: 'subframe_2_word_2_doldur': 'void' işlev değer döndürüyor
+C:\Users\PC_6373\source\repos\Beidou-SFRBX\Beidou-SFRBX\Beidou-SFRBX.c(880,40): warning C4244: '=': 'const double' - 'uint32_t' dönüşümü; veri kaybı olabilir
+C:\Users\PC_6373\source\repos\Beidou-SFRBX\Beidou-SFRBX\Beidou-SFRBX.c(881,36): warning C4244: '=': 'const double' - 'int32_t' dönüşümü; veri kaybı olabilir
+C:\Users\PC_6373\source\repos\Beidou-SFRBX\Beidou-SFRBX\Beidou-SFRBX.c(891,5): warning C4098: 'subframe_2_word_3_doldur': 'void' işlev değer döndürüyor
+C:\Users\PC_6373\source\repos\Beidou-SFRBX\Beidou-SFRBX\Beidou-SFRBX.c(896,36): warning C4244: '=': 'const double' - 'uint32_t' dönüşümü; veri kaybı olabilir
+C:\Users\PC_6373\source\repos\Beidou-SFRBX\Beidou-SFRBX\Beidou-SFRBX.c(897,35): warning C4244: '=': 'const double' - 'int32_t' dönüşümü; veri kaybı olabilir
+C:\Users\PC_6373\source\repos\Beidou-SFRBX\Beidou-SFRBX\Beidou-SFRBX.c(907,5): warning C4098: 'subframe_2_word_4_doldur': 'void' işlev değer döndürüyor
+C:\Users\PC_6373\source\repos\Beidou-SFRBX\Beidou-SFRBX\Beidou-SFRBX.c(913,35): warning C4244: '=': 'const double' - 'uint32_t' dönüşümü; veri kaybı olabilir
+C:\Users\PC_6373\source\repos\Beidou-SFRBX\Beidou-SFRBX\Beidou-SFRBX.c(914,34): warning C4244: '=': 'const double' - 'uint32_t' dönüşümü; veri kaybı olabilir
+C:\Users\PC_6373\source\repos\Beidou-SFRBX\Beidou-SFRBX\Beidou-SFRBX.c(924,5): warning C4098: 'subframe_2_word_5_doldur': 'void' işlev değer döndürüyor
+C:\Users\PC_6373\source\repos\Beidou-SFRBX\Beidou-SFRBX\Beidou-SFRBX.c(930,34): warning C4244: '=': 'const double' - 'uint32_t' dönüşümü; veri kaybı olabilir
+C:\Users\PC_6373\source\repos\Beidou-SFRBX\Beidou-SFRBX\Beidou-SFRBX.c(940,5): warning C4098: 'subframe_2_word_6_doldur': 'void' işlev değer döndürüyor
+C:\Users\PC_6373\source\repos\Beidou-SFRBX\Beidou-SFRBX\Beidou-SFRBX.c(946,32): warning C4244: '=': 'const double' - 'int32_t' dönüşümü; veri kaybı olabilir
+C:\Users\PC_6373\source\repos\Beidou-SFRBX\Beidou-SFRBX\Beidou-SFRBX.c(947,36): warning C4244: '=': 'const double' - 'int32_t' dönüşümü; veri kaybı olabilir
+C:\Users\PC_6373\source\repos\Beidou-SFRBX\Beidou-SFRBX\Beidou-SFRBX.c(957,5): warning C4098: 'subframe_2_word_7_doldur': 'void' işlev değer döndürüyor
+C:\Users\PC_6373\source\repos\Beidou-SFRBX\Beidou-SFRBX\Beidou-SFRBX.c(963,36): warning C4244: '=': 'const double' - 'uint32_t' dönüşümü; veri kaybı olabilir
+C:\Users\PC_6373\source\repos\Beidou-SFRBX\Beidou-SFRBX\Beidou-SFRBX.c(964,36): warning C4244: '=': 'const double' - 'int32_t' dönüşümü; veri kaybı olabilir
+C:\Users\PC_6373\source\repos\Beidou-SFRBX\Beidou-SFRBX\Beidou-SFRBX.c(974,5): warning C4098: 'subframe_2_word_8_doldur': 'void' işlev değer döndürüyor
+C:\Users\PC_6373\source\repos\Beidou-SFRBX\Beidou-SFRBX\Beidou-SFRBX.c(980,36): warning C4244: '=': 'const double' - 'uint32_t' dönüşümü; veri kaybı olabilir
+C:\Users\PC_6373\source\repos\Beidou-SFRBX\Beidou-SFRBX\Beidou-SFRBX.c(981,39): warning C4244: '=': 'const double' - 'uint32_t' dönüşümü; veri kaybı olabilir
+C:\Users\PC_6373\source\repos\Beidou-SFRBX\Beidou-SFRBX\Beidou-SFRBX.c(991,5): warning C4098: 'subframe_2_word_9_doldur': 'void' işlev değer döndürüyor
+C:\Users\PC_6373\source\repos\Beidou-SFRBX\Beidou-SFRBX\Beidou-SFRBX.c(996,40): warning C4244: '=': 'const double' - 'uint32_t' dönüşümü; veri kaybı olabilir
+C:\Users\PC_6373\source\repos\Beidou-SFRBX\Beidou-SFRBX\Beidou-SFRBX.c(1007,5): warning C4098: 'subframe_2_word_10_doldur': 'void' işlev değer döndürüyor
+C:\Users\PC_6373\source\repos\Beidou-SFRBX\Beidou-SFRBX\Beidou-SFRBX.c(1025,5): warning C4098: 'subframe_3_word_1_doldur': 'void' işlev değer döndürüyor
+C:\Users\PC_6373\source\repos\Beidou-SFRBX\Beidou-SFRBX\Beidou-SFRBX.c(1041,5): warning C4098: 'subframe_3_word_2_doldur': 'void' işlev değer döndürüyor
+C:\Users\PC_6373\source\repos\Beidou-SFRBX\Beidou-SFRBX\Beidou-SFRBX.c(1048,35): warning C4244: '=': 'const double' - 'int32_t' dönüşümü; veri kaybı olabilir
+C:\Users\PC_6373\source\repos\Beidou-SFRBX\Beidou-SFRBX\Beidou-SFRBX.c(1058,5): warning C4098: 'subframe_3_word_3_doldur': 'void' işlev değer döndürüyor
+C:\Users\PC_6373\source\repos\Beidou-SFRBX\Beidou-SFRBX\Beidou-SFRBX.c(1064,35): warning C4244: '=': 'const double' - 'uint32_t' dönüşümü; veri kaybı olabilir
+C:\Users\PC_6373\source\repos\Beidou-SFRBX\Beidou-SFRBX\Beidou-SFRBX.c(1065,36): warning C4244: '=': 'const double' - 'int32_t' dönüşümü; veri kaybı olabilir
+C:\Users\PC_6373\source\repos\Beidou-SFRBX\Beidou-SFRBX\Beidou-SFRBX.c(1076,5): warning C4098: 'subframe_3_word_4_doldur': 'void' işlev değer döndürüyor
+C:\Users\PC_6373\source\repos\Beidou-SFRBX\Beidou-SFRBX\Beidou-SFRBX.c(1081,36): warning C4244: '=': 'const double' - 'int32_t' dönüşümü; veri kaybı olabilir
+C:\Users\PC_6373\source\repos\Beidou-SFRBX\Beidou-SFRBX\Beidou-SFRBX.c(1082,38): warning C4244: '=': 'const double' - 'int32_t' dönüşümü; veri kaybı olabilir
+C:\Users\PC_6373\source\repos\Beidou-SFRBX\Beidou-SFRBX\Beidou-SFRBX.c(1092,5): warning C4098: 'subframe_3_word_5_doldur': 'void' işlev değer döndürüyor
+C:\Users\PC_6373\source\repos\Beidou-SFRBX\Beidou-SFRBX\Beidou-SFRBX.c(1098,38): warning C4244: '=': 'const double' - 'uint32_t' dönüşümü; veri kaybı olabilir
+C:\Users\PC_6373\source\repos\Beidou-SFRBX\Beidou-SFRBX\Beidou-SFRBX.c(1099,36): warning C4244: '=': 'const double' - 'int32_t' dönüşümü; veri kaybı olabilir
+C:\Users\PC_6373\source\repos\Beidou-SFRBX\Beidou-SFRBX\Beidou-SFRBX.c(1109,5): warning C4098: 'subframe_3_word_6_doldur': 'void' işlev değer döndürüyor
+C:\Users\PC_6373\source\repos\Beidou-SFRBX\Beidou-SFRBX\Beidou-SFRBX.c(1115,36): warning C4244: '=': 'const double' - 'uint32_t' dönüşümü; veri kaybı olabilir
+C:\Users\PC_6373\source\repos\Beidou-SFRBX\Beidou-SFRBX\Beidou-SFRBX.c(1116,37): warning C4244: '=': 'const double' - 'int32_t' dönüşümü; veri kaybı olabilir
+C:\Users\PC_6373\source\repos\Beidou-SFRBX\Beidou-SFRBX\Beidou-SFRBX.c(1126,5): warning C4098: 'subframe_3_word_7_doldur': 'void' işlev değer döndürüyor
+C:\Users\PC_6373\source\repos\Beidou-SFRBX\Beidou-SFRBX\Beidou-SFRBX.c(1132,37): warning C4244: '=': 'const double' - 'uint32_t' dönüşümü; veri kaybı olabilir
+C:\Users\PC_6373\source\repos\Beidou-SFRBX\Beidou-SFRBX\Beidou-SFRBX.c(1133,39): warning C4244: '=': 'const double' - 'int32_t' dönüşümü; veri kaybı olabilir
+C:\Users\PC_6373\source\repos\Beidou-SFRBX\Beidou-SFRBX\Beidou-SFRBX.c(1143,5): warning C4098: 'subframe_3_word_8_doldur': 'void' işlev değer döndürüyor
+C:\Users\PC_6373\source\repos\Beidou-SFRBX\Beidou-SFRBX\Beidou-SFRBX.c(1149,39): warning C4244: '=': 'const double' - 'uint32_t' dönüşümü; veri kaybı olabilir
+C:\Users\PC_6373\source\repos\Beidou-SFRBX\Beidou-SFRBX\Beidou-SFRBX.c(1150,34): warning C4244: '=': 'const double' - 'int32_t' dönüşümü; veri kaybı olabilir
+C:\Users\PC_6373\source\repos\Beidou-SFRBX\Beidou-SFRBX\Beidou-SFRBX.c(1160,5): warning C4098: 'subframe_3_word_9_doldur': 'void' işlev değer döndürüyor
+C:\Users\PC_6373\source\repos\Beidou-SFRBX\Beidou-SFRBX\Beidou-SFRBX.c(1166,35): warning C4244: '=': 'const double' - 'uint32_t' dönüşümü; veri kaybı olabilir
+C:\Users\PC_6373\source\repos\Beidou-SFRBX\Beidou-SFRBX\Beidou-SFRBX.c(1177,5): warning C4098: 'subframe_3_word_10_doldur': 'void' işlev değer döndürüyor
+LINK : fatal error LNK1168: C:\Users\PC_6373\source\repos\Beidou-SFRBX\x64\Debug\Beidou-SFRBX.exe yazma için açılamıyor
